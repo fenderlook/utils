@@ -11,7 +11,7 @@
       </property>
       <property>
         <name>password</name>
-        <value>1NSP</value>
+        <value>SUPERIVR</value>
       </property>
     </properties>
   </jdbc-driver-params>
