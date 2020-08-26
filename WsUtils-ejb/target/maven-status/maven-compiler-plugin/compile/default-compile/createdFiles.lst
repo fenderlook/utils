@@ -1,0 +1,12 @@
+co\com\claro\utils\util\EJBConstants$CODIGO_EXCEPCION.class
+co\com\claro\utils\util\EJBConstants$MENSAJE_EXCEPCION.class
+co\com\claro\utils\entity\responseConsulta.class
+co\com\claro\utils\entity\Parametros_.class
+co\com\claro\utils\util\EJBUtils.class
+co\com\claro\utils\dao\ParametrosDao.class
+co\com\claro\utils\facade\AbstractFacade.class
+co\com\claro\utils\facade\ParametrosFacade.class
+co\com\claro\utils\entity\Parametros.class
+co\com\claro\utils\util\EJBConstants.class
+co\com\claro\utils\dao\AbstractDao.class
+co\com\claro\utils\entity\requestConsulta.class

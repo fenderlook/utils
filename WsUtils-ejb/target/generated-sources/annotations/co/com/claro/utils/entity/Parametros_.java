@@ -1,0 +1,96 @@
+package co.com.claro.utils.entity;
+
+import java.util.Date;
+import javax.annotation.Generated;
+import javax.persistence.metamodel.SingularAttribute;
+import javax.persistence.metamodel.StaticMetamodel;
+
+@Generated(value="EclipseLink-2.5.2.v20140319-rNA", date="2020-08-26T14:45:30")
+@StaticMetamodel(Parametros.class)
+public class Parametros_ { 
+
+    public static volatile SingularAttribute<Parametros, String> reason;
+    public static volatile SingularAttribute<Parametros, String> addressedTo;
+    public static volatile SingularAttribute<Parametros, String> notes;
+    public static volatile SingularAttribute<Parametros, String> msisdnFailure;
+    public static volatile SingularAttribute<Parametros, String> channel;
+    public static volatile SingularAttribute<Parametros, String> zoneType;
+    public static volatile SingularAttribute<Parametros, Date> caseHour;
+    public static volatile SingularAttribute<Parametros, Date> dateCreate;
+    public static volatile SingularAttribute<Parametros, String> userMod;
+    public static volatile SingularAttribute<Parametros, String> idCategory;
+    public static volatile SingularAttribute<Parametros, String> factsRequest;
+    public static volatile SingularAttribute<Parametros, String> idCloseCode;
+    public static volatile SingularAttribute<Parametros, String> applicantSurname;
+    public static volatile SingularAttribute<Parametros, String> statusReason;
+    public static volatile SingularAttribute<Parametros, String> problem;
+    public static volatile SingularAttribute<Parametros, String> zone;
+    public static volatile SingularAttribute<Parametros, String> lineType;
+    public static volatile SingularAttribute<Parametros, String> action;
+    public static volatile SingularAttribute<Parametros, String> typeDocument;
+    public static volatile SingularAttribute<Parametros, Long> id;
+    public static volatile SingularAttribute<Parametros, String> adviser;
+    public static volatile SingularAttribute<Parametros, String> sector;
+    public static volatile SingularAttribute<Parametros, String> longitude;
+    public static volatile SingularAttribute<Parametros, String> incidentAssignmentGroup;
+    public static volatile SingularAttribute<Parametros, String> baseStations;
+    public static volatile SingularAttribute<Parametros, String> idCase;
+    public static volatile SingularAttribute<Parametros, String> impact;
+    public static volatile SingularAttribute<Parametros, String> sla;
+    public static volatile SingularAttribute<Parametros, String> remedy;
+    public static volatile SingularAttribute<Parametros, String> applicantName;
+    public static volatile SingularAttribute<Parametros, String> reportIdentification;
+    public static volatile SingularAttribute<Parametros, String> priority;
+    public static volatile SingularAttribute<Parametros, Date> failureDate;
+    public static volatile SingularAttribute<Parametros, Date> dateCase;
+    public static volatile SingularAttribute<Parametros, String> idSubcategory;
+    public static volatile SingularAttribute<Parametros, Date> caseHourEnd;
+    public static volatile SingularAttribute<Parametros, String> ccmm;
+    public static volatile SingularAttribute<Parametros, String> node;
+    public static volatile SingularAttribute<Parametros, String> phoneNumber;
+    public static volatile SingularAttribute<Parametros, String> diagnosisLevel;
+    public static volatile SingularAttribute<Parametros, String> relatedIncident;
+    public static volatile SingularAttribute<Parametros, String> diagnosticGuide;
+    public static volatile SingularAttribute<Parametros, String> timeByState;
+    public static volatile SingularAttribute<Parametros, String> status;
+    public static volatile SingularAttribute<Parametros, String> request;
+    public static volatile SingularAttribute<Parametros, String> caseAssignmentGroup;
+    public static volatile SingularAttribute<Parametros, String> city;
+    public static volatile SingularAttribute<Parametros, String> regional;
+    public static volatile SingularAttribute<Parametros, String> incidentManagementSystem;
+    public static volatile SingularAttribute<Parametros, String> latitude;
+    public static volatile SingularAttribute<Parametros, String> cmts;
+    public static volatile SingularAttribute<Parametros, String> cause;
+    public static volatile SingularAttribute<Parametros, String> functionality;
+    public static volatile SingularAttribute<Parametros, String> customerIdentification;
+    public static volatile SingularAttribute<Parametros, String> subservice;
+    public static volatile SingularAttribute<Parametros, String> personReport;
+    public static volatile SingularAttribute<Parametros, String> userCreate;
+    public static volatile SingularAttribute<Parametros, String> typeRequest;
+    public static volatile SingularAttribute<Parametros, String> urgency;
+    public static volatile SingularAttribute<Parametros, String> addressFails;
+    public static volatile SingularAttribute<Parametros, String> idPublication;
+    public static volatile SingularAttribute<Parametros, String> contactNumber;
+    public static volatile SingularAttribute<Parametros, String> department;
+    public static volatile SingularAttribute<Parametros, String> email;
+    public static volatile SingularAttribute<Parametros, String> originCase;
+    public static volatile SingularAttribute<Parametros, String> product;
+    public static volatile SingularAttribute<Parametros, String> idCustomerVoice;
+    public static volatile SingularAttribute<Parametros, String> comments;
+    public static volatile SingularAttribute<Parametros, String> planType;
+    public static volatile SingularAttribute<Parametros, Date> caseDateEnd;
+    public static volatile SingularAttribute<Parametros, String> relatedProyect;
+    public static volatile SingularAttribute<Parametros, String> typificationCloseCase;
+    public static volatile SingularAttribute<Parametros, String> technology;
+    public static volatile SingularAttribute<Parametros, String> accountNumber;
+    public static volatile SingularAttribute<Parametros, Short> idState;
+    public static volatile SingularAttribute<Parametros, Date> dateMod;
+    public static volatile SingularAttribute<Parametros, Date> failureDateSolution;
+    public static volatile SingularAttribute<Parametros, String> namePersonReport;
+    public static volatile SingularAttribute<Parametros, String> service;
+    public static volatile SingularAttribute<Parametros, String> relatedChange;
+    public static volatile SingularAttribute<Parametros, String> equipmentModel;
+    public static volatile SingularAttribute<Parametros, String> requestObject;
+    public static volatile SingularAttribute<Parametros, String> transaction;
+
+}
